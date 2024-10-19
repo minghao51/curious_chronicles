@@ -1,7 +1,7 @@
 site:
   name: Curious Chronicles
-  site: 'https://minghao51.github.io/curious_chronicles/'
-  base: '/'
+  site: 'https://minghao51.github.io/'
+  base: '/curious_chronicles' #curious_chronicles
   trailingSlash: false
 
   # googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
