@@ -9,11 +9,11 @@ export const headerData = {
     },
     {
       text: 'Musing',
-      href: '/category/musing',
+      href: getPermalink('/category/musing'),
     },
     {
       text: 'Article',
-      href: '/category/article',
+      href: getPermalink('/category/article'),
     },
     {
       text: 'Personal',
