@@ -1,10 +1,10 @@
 site:
   name: Curious Chronicles
-  site: 'https://astrowind.vercel.app'
+  site: 'https://minghao51.github.io/curious_chronicles/'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  # googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
 # Default SEO metadata
 metadata:
