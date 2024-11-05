@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-11-05T00:00:00Z
-title: Castles in the air - 海景蜃楼
-excerpt: blog series introduction.
+title: The world is your osyter
+excerpt: blog mnemo series 2
 image: https://i.ibb.co/3Wxs80j/2-vertical-images-listed-side-by-side-with-a-border-between-them-In-the-first-image-the-hard-working.jpg
 tags:
   - idioms
@@ -16,9 +16,9 @@ category: Meaning
 
 > This powerful visual metaphor perfectly illustrates the rewards of hard work versus the consequences of a comfortable, effort-free life. 🌿✨
 
+# The world is your osyter
 
-
-## The Story of Alex and the Beach
+## Story: The Story of Alex and the Beach
 
 Imagine Alex, a young boy who lives near a beautiful beach. One day, his wise old grandfather takes him to the shore and says, "Alex, the world is your oyster."
 Curious, Alex asks, "What do you mean, Grandpa?"
