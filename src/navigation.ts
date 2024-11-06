@@ -1,15 +1,15 @@
-import { getPermalink, getAsset } from './utils/permalinks';
+import { getPermalink, getAsset, getBlogPermalink } from './utils/permalinks';
 // getBlogPermalink,
 
 export const headerData = {
   links: [
     {
       text: 'Blog',
-      href: getPermalink('/'),
+      href: getBlogPermalink(), 
     },
     {
-      text: 'Musing',
-      href: getPermalink('/category/musing'),
+      text: 'Mnemo',
+      href: getPermalink('/category/mnemo'),
     },
     {
       text: 'Article',
@@ -20,6 +20,7 @@ export const headerData = {
       href: getPermalink('/homes/personal'),
     },
   ],
+  // #getPermalink('/'),
   // links: [
   //   {
   //     text: 'Homes',
