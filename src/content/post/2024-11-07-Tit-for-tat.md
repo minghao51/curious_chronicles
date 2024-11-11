@@ -12,18 +12,13 @@ category: Article
 
 > Tic for tac between 2 nations
 
-## Deglobalization and Game Theory: A Renewed “Tit-for-Tat” Approach
+## A Broader Phenomenon: Tariffs Beyond Nation-States
 
-With the rise of deglobalization, fueled by decoupling and isolationist policies, nations are increasingly resorting to reciprocal actions in response to one another. It sometimes looks like they are attempting to make themselves - "the bigger bully".
+The ongoing wave of deglobalization, driven by decoupling and isolationist policies, has led to a surge in protectionist measures. Nations are increasingly employing punitive tariffs as a bargaining chip in international trade negotiations.
 
-## Tit-for-Tat vs. Prisoner’s Dilemma in Game Theory
+This trend extends beyond intergovernmental relations, with individuals also utilizing retaliatory measures in personal and professional interactions. The proliferation of tariffs has become a ubiquitous phenomenon, permeating various levels of societal interaction.
 
-## Similarities
-1. **Game Theory**: Both models incorporate rational, strategic decision-making.
-2. **Conflic and Cooperation**: Each involves conflicting interests with potential for cooperation.
-.
-3. **Payoff Matrices**: Outcomes in both can be illustrated through payoff matrices.
-
+## Brief Introduction to the underlying phenomana
 ### Tic for Tac
 
 A prime example is tariffs between nations. When one country imposes tariffs, the other retaliates, leading to an escalating cycle of tariffs and counterclaims.
@@ -31,10 +26,14 @@ A prime example is tariffs between nations. When one country imposes tariffs, th
 1. **Strategy**: A player mirrors the opponent's previous move.
 2. **Goal**: Maximize individual payoff.
 3. **Outcomes**:
-    - **Cooperation (C/C)**: Both cooperate, receiving moderate rewards.
-    - **Defection (D/D)**: Both defect, receiving low rewards.
-    - **Exploitation (D/C or C/D)**: One exploits the other by defecting while the other cooperates.
 
+    a. **Cooperation (C/C)**: Both cooperate, receiving moderate rewards.
+
+    b. **Defection (D/D)**: Both defect, receiving low rewards.
+
+    c. **Exploitation (D/C or C/D)**: One exploits the other by defecting while the other cooperates.
+
+While nations may employ tariffs as a bargaining tool, reciprocal actions ultimately inflict harm on both parties. As neither side is willing to be exploited, the dominant outcome is **Mutual Defection (D/D)**. This highlights the difficulty of achieving cooperation in situations where self-interest and retaliation dominate.
 
 ### Prisoner Dilemma
 
@@ -58,30 +57,44 @@ Let's break it down using a payoff matrix:
 
 In the Prisoner’s Dilemma, the rational choice for both is to defect, often leading to a worse outcome for each. This mirrors scenarios in environmental agreements, where defection avoids immediate costs, but cooperation could lead to better outcomes.
 
-## Key differences
 
-1. **Players**: Tit-for-Tat often involves two parties with competing interests; the 2 Prisoner’s Dilemma involves two parties with aligned interests.
-2. **Game Structure**: Tit-for-Tat is iterative, while the Prisoner’s Dilemma is often a one-shot decision.
-3. **Payoff**: Tit-for-Tat rewards cooperation, while the Prisoner’s Dilemma penalizes cooperation when the other party defects.
+## Comparison
+
+### Similarities
+
+1. **Rational Decision-Making**: Both models assume strategic, rational actors.
+
+2. **Conflic and Cooperation**: Conflicting interests with potential for cooperation exist in both.
+
+3. **Payoff Matrices**: Outcomes in both can be illustrated through payoff matrices. While Tit-for-tat, economoy is can be thought as a zero sum game, the payoff for prisoner dilemma is predetermined by the preset penalty for jail time.
+
+3. **Payoff**: Tit-for-Tat and Prisoner’s Dilemma penalizes cooperation when the other party defects. Both parties are objectively optimizing for their individual payoff.
+
+### Key differences
+
+1. **Game Structure**: Tit-for-Tat involves repeated interactions, while Prisoner's Dilemma is often a one-shot decision.
+
+2. **Game Theory Classification**: Tit-for-Tat is an example of an iterative game, whereas Prisoner's Dilemma is a non-cooperative game.
 
 
 ## Solutions for Cooperation
 
-In game theory, certain strategies may encourage cooperation despite initial conflict.
+Knowing the comparison and the payoff matrices, to disengage the parties from the deadlock of mutual defection, and encourage cooperation. There are the following strategies:
 
-1. **Repeated Games**: Recognizing that interactions are repeated, nations might cooperate now, expecting future reciprocity.
+Achieving sustained cooperation in nation agreement (such as paris agreement) or individual coorperations is vital to avoid collectively damaging outcomes and improve ones options.
 
-2. **Enforcement Mechanisms**: Penalties for defection and rewards for cooperation can encourage collaborative behavior.
+1. **Repeated Games**: Recognizing that interactions are repeated, both parties should incorperate long-term consequences of their actions into their consideration. It might be more effective to cooperate now, expecting future reciprocity.
 
-3. **Communication and Agreements**: Transparent communication and binding agreements foster trust and commitment to cooperation.
+2. **Institutional/Enforcement framework**: Both parties are individually making rational choice based on their assumed payoff matrices, perhaps this can be influenced - The Penalties for defection and rewards for cooperation can be modified to encourage collaborative behavior. This would however require 3rd parties or enforcer/regulations.
 
-As a whole, this requires either a commitment or willingness or communicate on both parties.
+3. **Communication and Agreements**: Foster trust through transparent communication and binding agreements. This will also require the establishment of reputation mechanism.
 
-## Background
 
-Pressing issues, such as environmental agreements (e.g., the Paris Agreement), underscore the need for cooperation:
 
-- **Cooperate**: Reduce emissions
-- **Defect**: Continue polluting
+## Conclusion
 
-Achieving sustained cooperation in these areas is vital to avoid collectively damaging outcomes.
+In conclusion, strategic interactions involving conflicting interests inherently necessitate cooperation to avoid suboptimal outcomes. Recognizing the potential pitfalls of mutual defection, such as the prisoner's dilemma and tit-for-tat scenarios, is crucial. Effective cooperation can be fostered through targeted strategies, including repeated games, enforcement mechanisms, communication, and institutional frameworks.
+
+By acknowledging the complexities of cooperative decision-making and employing evidence-based solutions, individuals and organizations can mitigate conflicts and cultivate mutually beneficial outcomes. This understanding is particularly vital in international relations, business, and social interactions, where sustained cooperation is essential for achieving long-term goals and promoting collective well-being.
+
+
