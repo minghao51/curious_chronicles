@@ -74,7 +74,7 @@ In game theory, certain strategies may encourage cooperation despite initial con
 
 3. **Communication and Agreements**: Transparent communication and binding agreements foster trust and commitment to cooperation.
 
-> Although 2. and 3. seems like a long shot at this stage
+As a whole, this requires either a commitment or willingness or communicate on both parties.
 
 ## Background
 Pressing issues, such as environmental agreements (e.g., the Paris Agreement), underscore the need for cooperation:
