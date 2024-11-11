@@ -2,7 +2,7 @@
 publishDate: 2024-11-07T00:00:00Z
 title: Tic for Tac; Prisoner Dilemma
 excerpt: blog article series 1
-image: https://i.ibb.co/7GLfjVp/image-4.webp
+image: https://i.ibb.co/pfKCyHd/tic-for-tac.webp
 tags:
   - idioms
   - meaning
@@ -10,12 +10,13 @@ tags:
 category: Article
 ---
 
+> Tic for tac between 2 nations
 
-# Deglobalization and Game Theory: A Renewed “Tit-for-Tat” Approach
+## Deglobalization and Game Theory: A Renewed “Tit-for-Tat” Approach
 
 With the rise of deglobalization, fueled by decoupling and isolationist policies, nations are increasingly resorting to reciprocal actions in response to one another. It sometimes looks like they are attempting to make themselves - "the bigger bully".
 
-# Tit-for-Tat vs. Prisoner’s Dilemma in Game Theory
+## Tit-for-Tat vs. Prisoner’s Dilemma in Game Theory
 
 ## Similarities
 1. **Game Theory**: Both models incorporate rational, strategic decision-making.
@@ -24,8 +25,6 @@ With the rise of deglobalization, fueled by decoupling and isolationist policies
 3. **Payoff Matrices**: Outcomes in both can be illustrated through payoff matrices.
 
 ### Tic for Tac
-
-![Tic for tac between 2 nations](https://i.ibb.co/pfKCyHd/tic-for-tac.webp "Tic for tac between 2 nations")
 
 A prime example is tariffs between nations. When one country imposes tariffs, the other retaliates, leading to an escalating cycle of tariffs and counterclaims.
 
@@ -60,12 +59,14 @@ Let's break it down using a payoff matrix:
 In the Prisoner’s Dilemma, the rational choice for both is to defect, often leading to a worse outcome for each. This mirrors scenarios in environmental agreements, where defection avoids immediate costs, but cooperation could lead to better outcomes.
 
 ## Key differences
+
 1. **Players**: Tit-for-Tat often involves two parties with competing interests; the 2 Prisoner’s Dilemma involves two parties with aligned interests.
 2. **Game Structure**: Tit-for-Tat is iterative, while the Prisoner’s Dilemma is often a one-shot decision.
 3. **Payoff**: Tit-for-Tat rewards cooperation, while the Prisoner’s Dilemma penalizes cooperation when the other party defects.
 
 
 ## Solutions for Cooperation
+
 In game theory, certain strategies may encourage cooperation despite initial conflict.
 
 1. **Repeated Games**: Recognizing that interactions are repeated, nations might cooperate now, expecting future reciprocity.
@@ -77,6 +78,7 @@ In game theory, certain strategies may encourage cooperation despite initial con
 As a whole, this requires either a commitment or willingness or communicate on both parties.
 
 ## Background
+
 Pressing issues, such as environmental agreements (e.g., the Paris Agreement), underscore the need for cooperation:
 
 - **Cooperate**: Reduce emissions
