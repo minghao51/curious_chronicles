@@ -1,12 +1,10 @@
 ---
 publishDate: 2024-11-07T00:00:00Z
 title: Tic for Tac; Prisoner Dilemma
-excerpt: blog article series 1
+excerpt: Cooperation in Strategic Interactions - Overcoming Conflicting Interests
 image: https://i.ibb.co/pfKCyHd/tic-for-tac.webp
 tags:
-  - idioms
   - meaning
-  - picture
 category: Article
 ---
 
