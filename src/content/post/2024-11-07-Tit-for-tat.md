@@ -16,7 +16,7 @@ The ongoing wave of deglobalization, driven by decoupling and isolationist polic
 
 This trend extends beyond intergovernmental relations, with individuals also utilizing retaliatory measures in personal and professional interactions. The proliferation of tariffs has become a ubiquitous phenomenon, permeating various levels of societal interaction.
 
-## Brief Introduction to the underlying phenomana
+## Brief Introduction
 ### Tic for Tac
 
 A prime example is tariffs between nations. When one country imposes tariffs, the other retaliates, leading to an escalating cycle of tariffs and counterclaims.
@@ -77,9 +77,7 @@ In the Prisoner’s Dilemma, the rational choice for both is to defect, often le
 
 ## Solutions for Cooperation
 
-Knowing the comparison and the payoff matrices, to disengage the parties from the deadlock of mutual defection, and encourage cooperation. There are the following strategies:
-
-Achieving sustained cooperation in nation agreement (such as paris agreement) or individual coorperations is vital to avoid collectively damaging outcomes and improve ones options.
+Achieving sustained cooperation in nation agreement (such as paris agreement) or individual coorperations is vital to avoid collectively damaging outcomes. To overcome mutual defection and encourage cooperation:
 
 1. **Repeated Games**: Recognizing that interactions are repeated, both parties should incorperate long-term consequences of their actions into their consideration. It might be more effective to cooperate now, expecting future reciprocity.
 
@@ -96,3 +94,13 @@ In conclusion, strategic interactions involving conflicting interests inherently
 By acknowledging the complexities of cooperative decision-making and employing evidence-based solutions, individuals and organizations can mitigate conflicts and cultivate mutually beneficial outcomes. This understanding is particularly vital in international relations, business, and social interactions, where sustained cooperation is essential for achieving long-term goals and promoting collective well-being.
 
 
+
+## Key Takeaways:
+
+1. Cooperation is essential in strategic interactions with conflicting interests.
+
+2. Recognizing potential pitfalls (e.g., prisoner's dilemma, tit-for-tat) informs cooperative strategies.
+
+3. Effective solutions include repeated games, enforcement mechanisms, communication, and institutional frameworks.
+
+4. Cooperative decision-making requires consideration of long-term consequences.
