@@ -1,18 +1,18 @@
 ---
-import Layout from '~/layouts/PageLayout.astro';
+import Layout from "~/layouts/PageLayout.astro";
 
-import Header from '~/components/widgets/Header.astro';
-import Hero from '~/components/widgets/Hero.astro';
-import Content from '~/components/widgets/Content.astro';
-import CallToAction from '~/components/widgets/CallToAction.astro';
-import Features3 from '~/components/widgets/Features3.astro';
+import Header from "~/components/widgets/Header.astro";
+import Hero from "~/components/widgets/Hero.astro";
+import Content from "~/components/widgets/Content.astro";
+import CallToAction from "~/components/widgets/CallToAction.astro";
+import Features3 from "~/components/widgets/Features3.astro";
 // import Testimonials from '~/components/widgets/Testimonials.astro';
-import Steps from '~/components/widgets/Steps.astro';
-import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
-import { getPermalink } from '~/utils/permalinks';
+import Steps from "~/components/widgets/Steps.astro";
+import BlogLatestPosts from "~/components/widgets/BlogLatestPosts.astro";
+import { getPermalink } from "~/utils/permalinks";
 
 const metadata = {
-  title: 'Personal Homepage Demo',
+  title: "Personal Homepage Demo",
 };
 ---
 
@@ -21,17 +21,17 @@ const metadata = {
   <Fragment slot="header">
     <Header
       links={[
-        { text: 'Home', href: '#' },
-        { text: 'About', href: '#about' },
-        { text: 'Resume', href: '#resume' },
+        { text: "Home", href: "#" },
+        { text: "About", href: "#about" },
+        { text: "Resume", href: "#resume" },
         // { text: 'Porfolio', href: '#porfolio' },
         // { text: 'Blog', href: '#blog' },
         // { text: 'Github', href: 'https://github.com/onwidget' },
       ]}
       actions={[
         {
-          text: 'Hire me',
-          href: '#',
+          text: "Hire me",
+          href: "#",
         },
       ]}
       isSticky
@@ -45,16 +45,20 @@ const metadata = {
     id="hero"
     title="Ming Hao"
     tagline="Personal Web Blog"
-    actions={[{ variant: 'primary', text: 'Hire me', href: getPermalink('/contact#form') }]}
+    actions={[
+      {
+        variant: "primary",
+        text: "Hire me",
+        href: getPermalink("/contact#form"),
+      },
+    ]}
   >
     <Fragment slot="subtitle">
       Results-driven Data Scientist Manager with 8+ years of experience.
-      <br /> Expert in machine learning and deep learning techniques, with track records of
-      <br /> delivering end-to-end projects in lead generation, customer segmentation, and personalized recommendations.
-
-      <!-- I'm a Graphic Designer passionate about crafting visual stories. <br /> With 5 years of experience and a degree from
-      New York University's School of Design. I infuse vitality into brands and designs, transforming concepts into captivating
-      realities. -->
+      <br /> Expert in machine learning and deep learning techniques, with track
+      records of
+      <br /> delivering end-to-end projects in lead generation, customer segmentation,
+      and personalized recommendations.
     </Fragment>
   </Hero>
 
@@ -65,19 +69,19 @@ const metadata = {
     columns={3}
     items={[
       {
-        icon: 'tabler:brand-linkedin',
+        icon: "tabler:brand-linkedin",
         callToAction: {
-          target: '_blank',
-          text: 'Linkedin',
-          href: 'https://www.linkedin.com/in/ming-hao-teo-40b12256/',
+          target: "_blank",
+          text: "Linkedin",
+          href: "https://www.linkedin.com/in/ming-hao-teo-40b12256/",
         },
       },
       {
-        icon: 'tabler:brand-github',
+        icon: "tabler:brand-github",
         callToAction: {
-          target: '_blank',
-          text: 'Github',
-          href: 'https://github.com/minghao51',
+          target: "_blank",
+          text: "Github",
+          href: "https://github.com/minghao51",
         },
       },
       // {
@@ -90,24 +94,34 @@ const metadata = {
       // },
     ]}
     image={{
-      src: 'https://i.ibb.co/yfpNwvs/a-barely-lit-small-wooden-campsite-under.jpg',
-      alt: 'Colorful Image',
-      loading: 'eager',
+      src: "https://i.ibb.co/yfpNwvs/a-barely-lit-small-wooden-campsite-under.jpg",
+      alt: "Colorful Image",
+      loading: "eager",
     }}
   >
     <Fragment slot="content">
-      <h2 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">About me</h2>
+      <h2
+        class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2"
+      >
+        About me: Curious Data Storyteller
+      </h2>
       <p>
-        Welcome to my creative journey. My work is a testament to my commitment to bringing ideas to life, where each
-        pixel becomes a brushstroke in the canvas of imagination.
+        As a driven data scientist, I thrive at the intersection of logic and
+        creativity. My passion is uncovering insights that transform complex
+        data into compelling narratives.
       </p>
       <br />
       <p>
-        I find inspiration in the world around me, whether through the pages of a captivating novel, the intricate
-        details of typography, or the vibrant hues of nature during my outdoor escapades.
+        Inspired by the intricate patterns in data, I draw motivation from
+        diverse sources: the elegance of algorithms, the precision of
+        statistical models, and the dynamic interactions within complex systems.
       </p>
       <br />
-      <p>If you're curious to dive deeper into my work, you can follow me:</p>
+      <p>
+        I turn data and life experience into stories, driven by curiosity and
+        passion for uncovering hidden patterns. Inspired by algorithmic
+        elegance, LLM assisted writing and drawing, and statistical precision.
+      </p>
     </Fragment>
 
     <Fragment slot="bg">
@@ -125,16 +139,16 @@ const metadata = {
         title:
           'Data Scientist, Manager <br /> <span class="font-normal">FWD Group, Singapore </span> <br /> <span class="text-sm font-normal">Aug 2021 - Present</span>',
         description: `Spearheaded AI/ML initiatives and data transformation across Digital, Agency, and Bank Partnership. <br /> focusing on cross-sell and acquisition, on end-to-end machine learning projects`,
-        icon: 'tabler:briefcase',
+        icon: "tabler:briefcase",
       },
       {
         title:
           'Senior Data Scientist <br /> <span class="font-normal">ComfortDelgroGroup Zig, Singapore</span> <br /> <span class="text-sm font-normal">Mar 2021 - Jul 2021</span>',
         description: `Led team members in leveraging AWS platform <br /> (SageMaker, Glue, Athena, Lambda) for data and AI projects, with focus on DataOps and MLOps services.`,
-        icon: 'tabler:briefcase',
+        icon: "tabler:briefcase",
       },
     ]}
-    classes={{ container: 'max-w-3xl' }}
+    classes={{ container: "max-w-3xl" }}
   />
 
   <!-- Steps Widget ****************** -->
@@ -145,14 +159,14 @@ const metadata = {
     items={[
       {
         title: `Master of Medical Physics <br /> <span class="font-normal"> University of Sydney </span> <br /> <span class="text-sm font-normal">2013 - 2014</span>`,
-        icon: 'tabler:school',
+        icon: "tabler:school",
       },
       {
         title: `Bachelor of Science (Double Major Physics and Chemistry) <br /> <span class="font-normal">Australian National University </span> <br /> <span class="text-sm font-normal">2009 - 2012</span>`,
-        icon: 'tabler:school',
+        icon: "tabler:school",
       },
     ]}
-    classes={{ container: 'max-w-3xl' }}
+    classes={{ container: "max-w-3xl" }}
   />
 
   <!-- Features3 Widget ************** -->
@@ -164,39 +178,41 @@ const metadata = {
     defaultIcon="tabler:point-filled"
     items={[
       {
-        title: 'Python',
+        title: "Python",
         // description: 'Proficient in crafting visually appealing designs that convey messages effectively.',
       },
       {
-        title: 'Spark',
-        description: 'Skilled with big data technologies such as spark, polars, duckDB.',
+        title: "Spark",
+        description:
+          "Skilled with big data technologies such as spark, polars, duckDB.",
       },
       {
-        title: 'Cloud Platform',
-        description: 'Experienced in AWS, Azure, Databricks platform.',
+        title: "Cloud Platform",
+        description: "Experienced in AWS, Azure, Databricks platform.",
       },
       {
-        title: 'Data Pipeline',
-        description: 'Skilled in using deploying data pipeline via airflow, luigi, azure data factory.',
+        title: "Data Pipeline",
+        description:
+          "Skilled in using deploying data pipeline via airflow, luigi, azure data factory.",
       },
       {
-        title: 'Machine Learning',
-        description: 'Adept in sckit-learn, xgboost.',
+        title: "Machine Learning",
+        description: "Adept in sckit-learn, xgboost.",
       },
       {
-        title: 'Optimization',
+        title: "Optimization",
         // description: 'Proficient in using color to evoke emotions and enhance visual harmony.',
       },
       {
-        title: 'LLM',
+        title: "LLM",
         // description: 'Knowledgeable in designing for both print materials and digital platforms.',
       },
       {
-        title: 'Visualization',
+        title: "Visualization",
         // description: 'Diligent in maintaining precision and quality in all design work.',
       },
       {
-        title: 'Adaptability',
+        title: "Adaptability",
         // description: 'Quick to adapt to new design trends, technologies, and client preferences.',
       },
     ]}
@@ -209,9 +225,9 @@ const metadata = {
     subtitle="Ready to transform your vision into captivating designs?"
     actions={[
       {
-        variant: 'primary',
-        text: 'Hire me',
-        href: '/',
+        variant: "primary",
+        text: "Hire me",
+        href: "/",
       },
     ]}
   />
