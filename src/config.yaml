@@ -66,7 +66,7 @@ apps:
 analytics:
   vendors:
     googleAnalytics:
-      id: G-ZMDF1Z9WCM # null or "G-XXXXXXXXXX"
+      id: 'GT-NF768ZJL' # G-ZMDF1Z9WCM # null or "G-XXXXXXXXXX"
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
