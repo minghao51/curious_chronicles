@@ -4,7 +4,7 @@ site:
   base: '/curious_chronicles' #curious_chronicles
   trailingSlash: false
 
-  # googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: 3hshC2jAkK-7ZL2PUtBqFr1raLhuTE8rP9IBElS2U5g
 
 # Default SEO metadata
 metadata:
