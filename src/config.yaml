@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: MingHao's Blog
     template: '%s — AstroWind'
-  description: "\u03C6 MingHao's Blogs."
+  description: "MingHao's Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: MingHao's blog
     images:
       - url: '~/assets/images/default.png'
         width: 1200
