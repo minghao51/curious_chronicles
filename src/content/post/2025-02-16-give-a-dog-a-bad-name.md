@@ -1,7 +1,7 @@
 ---
 publishDate: 2025-02-16T01:00:00Z
 title: Give a dog a bad name and hang him
-excerpt: blog mnemo series 1
+excerpt: It is only human tendency
 image: https://i.ibb.co/n80rDJ04/Give-a-dog-a-bad-name-and-hang-him.png
 tags:
   - idioms

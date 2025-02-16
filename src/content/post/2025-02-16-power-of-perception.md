@@ -1,7 +1,7 @@
 ---
 publishDate: 2025-02-16T00:00:00Z
 title: Is Reality Real? The Power of Perception
-excerpt: blog mnemo series 1
+excerpt: Preception of turth can be more important than truth
 image: https://i.ibb.co/SXTjFNZd/a-illustrated-water-color-image-split-vertically.jpg
 tags:
   - idioms

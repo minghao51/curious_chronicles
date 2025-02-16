@@ -1,7 +1,7 @@
 ---
 publishDate: 2025-02-14T00:00:00Z
 title: Kangaroo Court
-excerpt: blog mnemo series 1
+excerpt: The hallow weight of turth in front of entertainment
 image: https://i.ibb.co/fztBY9XQ/Kangaroo-Court.png
 tags:
   - idioms

@@ -1,7 +1,7 @@
 ---
 publishDate: 2025-02-14T00:00:00Z
 title: Survival Bias
-excerpt: blog mnemo series 1
+excerpt: What we perceive
 image: https://i.ibb.co/B5tRzv95/iceberg-of-success-jpg-v2.png
 tags:
   - idioms
